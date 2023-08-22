@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessebilityDemo</string>
+    <string name="accessibility_permission_msg">This permission is used for the clicks of cursor over screen. If you Skip, You will not be able to use this feature.</string>
+
+</resources>
